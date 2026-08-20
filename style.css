@@ -141,3 +141,23 @@ section {
   transform: scale(1.02);
   box-shadow: 0 6px 14px rgba(0,0,0,0.4);
 }
+
+/* ====== Footer ====== */
+footer {
+  width: 100%;
+  padding: 1.5rem 1rem 2rem;
+  text-align: center;
+  font-size: 0.8rem;
+  color: #5f6b76;
+  border-top: 1px solid #1f232c;
+  margin-top: 2rem;
+}
+
+footer a {
+  color: #7fa8a4;
+  font-weight: 600;
+}
+
+footer a:hover {
+  color: #4fd1c5;
+}
